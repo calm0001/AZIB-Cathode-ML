@@ -1,0 +1,14 @@
+﻿No,Material ID,Formula,Predicted voltage (V),Predicted capacity (mAh g-1),MP hull energy (eV atom-1),Screening outcome / phase reference
+1,mp-aaacqxjn,Li2Zn2(MoO4)3,3.023,99.0,0.0109,Not retained[36]
+2,mp-aaabfxob,NaZnFe2(PO4)3,3.002,117.0,0.0177,Not retained[37]
+3,mp-aaaabrbk,Ti3Zn2O8,2.433,164.9,0.0005,Not retained[38]
+4,mp-aaaaazyv,V2Zn3O8,2.465,157.3,0.0306,Not retained[39]
+5,mp-aaaabbml,Nb2Zn3O8,2.146,167.7,0.0228,Not retained[40]
+6,mp-aaabfran,SrV2ZnO7,2.726,119.0,0.0010,Not retained[41]
+7,mp-aaacltye,ZnFe2(P2O7)2,2.851,106.9,0.0030,Not retained[42]
+8,mp-aaacpfiq,Zn2Mn(SiO4)(OH)2,1.960,169.0,0.0081,"Partial de-zincation plausible[31,32]"
+9,mp-aaaabahh,Ta2ZnO6,1.974,159.5,0.0106,Not retained[43]
+10,mp-aaaabpxr,V2Zn4O9,2.488,137.9,0.0193,Not retained[44]
+11,mp-aaabdbiu,ZnCuAsHO5,2.138,150.6,0.0071,Not retained[45]
+12,mp-aaacpyhb,ZnAgPO4,2.368,142.8,0.0000,Not retained[46]
+13,mp-aaaabrpd,Zn3Mo2O9,2.285,145.2,0.0094,Not retained[47]

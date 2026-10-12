@@ -1,0 +1,8 @@
+﻿Population / evaluation,Records / features,Voltage,Capacity
+Modeling population,"6,847 / 53",434 Zn records,Same Zn subset
+Primary group holdout,"4,777 / 2,070; overlap 0",R2 0.8247; RMSE 0.7213 V; MAE 0.4867 V,R2 0.8372; RMSE 78.0115 mAh g-1; MAE 31.2397 mAh g-1
+Selection group CV,Five folds,RMSE 0.9309 V,RMSE 70.2026 mAh g-1
+Strict non-Zn → Zn,"4,925 / 434; overlap 0",R2 −1.03,R2 0.27
+Zn-only CatBoost OOF,434 / 332 framework groups,R2 0.6689; RMSE 0.6264 V,R2 0.7734; RMSE 56.8477 mAh g-1
+Mixed-ion group-safe OOF,434 Zn validation records,R2 0.7025; RMSE 0.5938 V,Zn-only regime selected
+Screening library,"6,874 candidates",Prediction population,Not evaluation data

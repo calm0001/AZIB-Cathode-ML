@@ -1,0 +1,7 @@
+﻿Evidence,Observation,Boundary
+Identity / sites,Zn2Mn(SiO4)(OH)2; two 4e Zn orbits; experimental correspondence,Site identity does not demonstrate Zn mobility.
+Partial-removal topology,"Zn1: 0.333, FAIL; Zn2: 1.0, PASS",Unrelaxed pristine connectivity only.
+Charge headroom,Half removal: 8 e-; full: 16 e-; available: 20 e- per cell,"Composition-level sanity, without extraction energetics."
+Full-removal topology,"Retention 0.333, FAIL despite charge PASS",Full removal unsupported as retained connectivity.
+Literature scope,No direct aqueous-ZIB cathode report was identified.,No claim of global novelty.
+Conclusion,Site-dependent partial de-zincation remains structurally plausible.,"Electrochemical reversibility, aqueous stability, vacancy energetics and migration kinetics remain unverified."
