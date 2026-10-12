@@ -1,0 +1,15 @@
+# Recorded real execution environment (Python 3.14.5). Install manually if needed.
+# Reproduce: numpy through scikit-learn. Full: all scientific libraries.
+numpy==2.4.6
+pandas==3.0.3
+pymatgen==2026.5.4
+matplotlib==3.11.0
+Pillow==12.2.0
+scikit-learn==1.9.0
+catboost==1.2.10
+xgboost==3.3.0
+lightgbm==4.6.0
+scipy==1.18.0
+joblib==1.5.3
+threadpoolctl==3.6.0
+# TreeSHAP is calculated by CatBoost's native get_feature_importance; shap is not required.
